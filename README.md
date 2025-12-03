@@ -15,5 +15,5 @@ Module 4: GitHub for Teaching
 
 | Week | Lecture | Topic           | File               |
 | ---- | ------- | --------------- | ------------------ |
-| 1    | 1       | Course Overview | [01.pptx](01.pptx) |
-| 1    | 2       | Versioning      | [02.pptx](02.pptx) |
+| 1    | 1       | Course Overview |  |
+| 1    | 2       | Versioning      | |
