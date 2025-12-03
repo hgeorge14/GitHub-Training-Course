@@ -15,5 +15,5 @@ Module 4: GitHub for Teaching
 
 | Week | Lecture | Topic           | File               |
 | ---- | ------- | --------------- | ------------------ |
-| 1    | 1       | Course Overview |  |
+| 1    | 1       | Course Overview | [GitHub Benefits Image](https://github.com/hgeorge14/GitHub-Training-Course/blob/main/GitHub%20Benefits.png)|
 | 1    | 2       | Versioning      | |
